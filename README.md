@@ -1,5 +1,5 @@
 # Kuramoto clustering Test
-An early test for the [Sentinel Self](https://sisselmarietonn.com/project/the-sentinel-self) project, checking out some dynamics with [Kuramoto model](https://en.wikipedia.org/wiki/Kuramoto_model) in 3D space with physics, clustering and a playable node
+An early test for the [Sentinel Self](https://sisselmarietonn.com/project/the-sentinel-self) project, checking out some dynamics with [Kuramoto model](https://en.wikipedia.org/wiki/Kuramoto_model) in 3D space with physics, clustering and a playable node. This became the ckbone system for agents within the system.
 
 ## Test it Here :
 
